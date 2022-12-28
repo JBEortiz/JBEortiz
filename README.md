@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @JBEortiz
+- 👀 I’m interested in programming back clean architectures
+- 🌱 I’m currently learning React with JS
